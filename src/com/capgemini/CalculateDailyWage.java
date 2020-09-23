@@ -12,5 +12,4 @@ public class CalculateDailyWage {
 		int dailyWage = EMP_RATE_PER_HOUR*dayHour;
 		System.out.println("Emp Wage: " + dailyWage);
 	}
-
 }
